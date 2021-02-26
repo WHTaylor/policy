@@ -41,45 +41,51 @@
 
 ### 3. Raw data, facility generated reduced data and associated metadata
 
-3.1 Free and commercial access to ISIS
+3.1 Free access to ISIS
 
-3.1.1 All raw data and associated metadata obtained as a result of free (non-commercial) access to ISIS, will be treated as described below, with ISIS acting as the custodian.
+3.1.1 All raw data, facility generated reduced data and associated metadata obtained as a result of free (non-commercial) access to ISIS will be treated as described in subsections 3.3 onwards, with ISIS acting as the custodian.
 
-3.1.2 All raw data, facility generated reduced data and associated metadata obtained as a result of ‘commercial-in-confidence’ access to ISIS will be owned exclusively by the commercial user.  Commercial users must agree with their relevant instruments scientists how they wish their raw data, facility generated reduced data and metadata to be managed before the start of any experiment.
+3.2 Commercial access to ISIS
 
-3.2 Curation of raw data and associated metadata
+3.2.1 All raw data, facility generated reduced data and associated metadata obtained as a result of ‘commercial-in-confidence’ access to ISIS (henceforth referred to as 'commercial data') will be owned exclusively by the commercial user.
 
-3.2.1 All raw data will be created in well-defined formats, for which the means of reading the data will be made available by the Facility.
+3.2.2 Commercial data will be treated as described in the rest of section 3 with the exception of 3.5.2, from which it is exempt.
 
-3.2.2 Metadata associated with raw data that is automatically captured by instruments will be curated either within the raw data files, within an associated on-line catalogue, or within both.
+3.2.3 Commercial users can request further changes to how their commercial data is treated. They must agree upon any such modifications with the relevant instrument scientists before the start of any experiment.
 
-3.2.3 Raw data and metadata will be stored initially on instrument-related computers, and will be migrated or copied to archival facilities for long-term curation.
+3.3 Curation of raw data and associated metadata
 
-3.3 Storing of facility generated reduced data and associated metadata​
+3.3.1 All raw data will be created in well-defined formats, for which the means of reading the data will be made available by the Facility.
 
-3.3.1 All facility generated reduced data will be created in well-defined formats that are readable at the time of creation either by facility or non-facility software, or both.
+3.3.2 Metadata associated with raw data that is automatically captured by instruments will be curated either within the raw data files, within an associated on-line catalogue, or within both.
 
-3.3.2 Facility generated reduced data will be stored on medium-term storage, subject to volume restrictions.
+3.3.3 Raw data and metadata will be stored initially on instrument-related computers, and will be migrated or copied to archival facilities for long-term curation.
 
-3.4 Concerning access to raw data and associated metadata
+3.4 Storing of facility generated reduced data and associated metadata​
 
-3.4.1 Raw data and metadata beyond the period that it is stored on instrument-related computers will long-term be accessible and searchable from the on-line catalogue.
+3.4.1 All facility generated reduced data will be created in well-defined formats that are readable at the time of creation either by facility or non-facility software, or both.
 
-3.4.2 Access to raw data and the associated metadata obtained from an experiment is restricted to the experimental team for a period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite Digital Unique Identifiers (DOI) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.  Any PI who wishes their data to be made publicly accessible before the end of the 3 year period can ask ISIS to enable this.
+3.4.2 Facility generated reduced data will be stored on medium-term storage, subject to volume restrictions.
 
-3.5 Concerning access to facility generated reduced data and associated metadata
+3.5 Concerning access to raw data and associated metadata
 
-3.5.1 Facility generated reduced data and associated metadata will be accessible from the DAaaS platform.
+3.5.1 Raw data and metadata beyond the period that it is stored on instrument-related computers will long-term be accessible and searchable from the on-line catalogue.
 
-3.6 Concerning access to raw data, facility generated reduced data and associated metadata
+3.5.2 Access to raw data and the associated metadata obtained from an experiment is restricted to the experimental team for a period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite Digital Unique Identifiers (DOI) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.  Any PI who wishes their data to be made publicly accessible before the end of the 3 year period can ask ISIS to enable this.
 
-3.6.1 Access to the on-line catalogue and the DAaaS platform will be restricted to those who register with STFC/ISIS as users.
+3.6 Concerning access to facility generated reduced data and associated metadata
 
-3.6.2 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
+3.6.1 Facility generated reduced data and associated metadata will be accessible from the DAaaS platform.
 
-3.6.3 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the 3 year embargo period.
+3.7 Concerning access to raw data, facility generated reduced data and associated metadata
 
-3.6.4 The on-line catalogue will enable the linking of experimental data to experimental proposals.  Access to proposals will only ever be provided to the experimental team and appropriate STFC staff, unless otherwise authorized by the PI (with the exception of those parts of the online proposal which are flagged as publicly accessible within the proposal system).
+3.7.1 Access to the on-line catalogue and the DAaaS platform will be restricted to those who register with STFC/ISIS as users.
+
+3.7.2 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
+
+3.7.3 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the 3 year embargo period.
+
+3.7.4 The on-line catalogue will enable the linking of experimental data to experimental proposals.  Access to proposals will only ever be provided to the experimental team and appropriate STFC staff, unless otherwise authorized by the PI (with the exception of those parts of the online proposal which are flagged as publicly accessible within the proposal system).
 
 
 ### 4. Result data
